@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Deepak CM</h1>
+  <h1>Hi 👋, I'm Deepak C</h1>
   <p>A passionate programmer exploring the world of software development 🚀</p>
 
   <a href="https://discord.com/users/deepak_gamer">
