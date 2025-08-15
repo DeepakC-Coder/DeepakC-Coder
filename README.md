@@ -8,7 +8,7 @@
   <a href="mailto:deepakcm27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-deepakcm27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/deepak-cm-8ab91136b/">
+  <a href="https://www.linkedin.com/in/deepak-c-8ab91136b">
     <img src="https://img.shields.io/badge/LinkedIn-Deepak%20CM-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
